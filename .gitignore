@@ -1,2 +1,14 @@
 # Include your project-specific ignores in this file
 # Read about how to use .gitignore: https://help.github.com/articles/ignoring-files
+
+# OS X junk files
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+.fseventsd
+
+# Windows junk files
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
